@@ -3,5 +3,5 @@ hello-world
 Beginner in Java
 modified
 
-test git pool
+test git pull
 
